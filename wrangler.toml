@@ -1,0 +1,3 @@
+name = "cfw-fari-mailer"
+main = "src/index.js"
+compatibility_date = "2022-07-12"
