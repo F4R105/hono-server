@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev src/index.js",
-    "deploy": "wrangler deploy --minify src/index.js",
-    "email": ""
+    "deploy": "wrangler deploy --minify src/index.js"
   },
   "keywords": [],
   "author": "",
